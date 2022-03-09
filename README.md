@@ -4,8 +4,8 @@ Transit Spot is a service that helps travelers to find an optimal route for thei
 
 ## Structure
 
-* "/TransitSpot" - Java Spring back-end
-* "/TransitSpotUI" - ReactJS front-end
+* /TransitSpot - Java Spring back-end
+* /TransitSpotUI - ReactJS front-end
  
 ## Documentation
 
